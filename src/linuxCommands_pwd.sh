@@ -2,7 +2,6 @@
 :<<EOF
     - pwd(Print Working Directory) adalah perintah yang digunakan untuk mencetak direktori kerja saat ini dalam Bash
     - menampilkan path absolut dari lokasi dimana skrip dijalankan
-    - implementation
 EOF
 
 # contoh penggunaan 1 (menampilkan direktori saat ini)
